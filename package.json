@@ -106,7 +106,7 @@
     "rimraf": "^5.0.5",
     "semantic-release": "^22.0.12",
     "storybook": "^7.6.4",
-    "styled-components": "^6.1.9",
+    "styled-components": "^6.1.13",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4"
   },
@@ -150,11 +150,11 @@
     ]
   },
   "dependencies": {
-    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "classnames": "^2.5.1",
     "esm": "^3.2.25",
     "lodash.merge": "^4.6.2",
     "mkdirp": "^3.0.1",
-    "stylis": "^4.3.2"
+    "stylis": "^4.3.4"
   }
 }
